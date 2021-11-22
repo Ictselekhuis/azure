@@ -8,6 +8,7 @@ Write-Host '*** NHG CUSTOMIZER *** INSTALL APPS *** Install apps with Chocolatey
 $Packages = 'microsoft-edge', `
             'sqlpackage', `
             'dotnetcore-3.1-windowshosting', `
+            'webdeploy', `
             'sql-server-management-studio'
             #'googlechrome', `
             #'keepass', `
